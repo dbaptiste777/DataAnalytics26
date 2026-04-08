@@ -1,0 +1,36 @@
+1. What conclusion can you reach about the responses to this question?
+-The conclusion that I can reach about the responses to this question is that a common keyword in most of the responses is "ready".
+
+
+2. Is the default summary or visualization helpful? How could it be improved?
+-The default summary and visualization is helpful because it shows the results with charts and can make the data easier to read. 
+
+
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+-To find the actual text of those responses you select "More details" button on each question. What I notice is that it can skew the data because it allows you to chang
+
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+- For questions with a written response, it makes spotting trends difficult because it allows the subjects to enter personalized responses suitable for them. This can make creating trends or patterns difficult to find.
+
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+- Now that I can see the responses, I would rephrase this question in a way where I allow test subjects to select option choices rather than having the ability to creating their own.
+
+6. Is there anything that surprised you about the survey responses?
+- 
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to
+include in your morning routine, or any questions that you are also curious about?
+- After looking at questions 1 and 5 I noticed that my peers and I have similar routines 5 minutes before class, therefore there isn't anything that I would change.
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help
+in how you approach teaching this class?
+-If I were the instructor, there isn't anything that I would change in how I approach teaching this class. Students seem to be prepared.
+
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to
+make this survey anonymous? Why or why not? (If you can see both pros and cons,
+you may include both.)
+-If I was the instructor, I believe it was helpful to make this survey anonymous because I believe it allowed students to be somewhat vulnerable with how they decided to answer the questions, however a con to making this survey anonymous is that it prevents the teacher from getting to know each student in a different way.
