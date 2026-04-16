@@ -1,0 +1,17 @@
+ID,Start time,Completion_time,Email,Name,Wing_quality,Flavor_familiarity,Speed,Friendliness_Rating,Order_accuracy,Restaurant_cleanliness,customer_revisit,Flavor_suggestions
+1,4/9/2026 8:39,4/9/2026 8:39,cpalacios@my.yearupunited.org,charles palacios,Excellent,Yes,Fast,Excellent,Yes,Extremely clean,Very likely,Mango Habanero 
+2,4/9/2026 8:40,4/9/2026 8:41,amartinez3@my.yearupunited.org,alondra martinez,Excellent,Yes,Slow,Average,No,Somewhat clean,Somewhat likely,chipotle lime
+3,4/9/2026 8:40,4/9/2026 8:41,dberhane@my.yearupunited.org,danait berhane,Good,Yes,Average,Good,Yes,Somewhat clean,Somewhat likely,buffalo wings 
+4,4/9/2026 8:46,4/9/2026 8:47,lmwembe@my.yearupunited.org,lorah mwembe,Excellent,No,Fast,Excellent,Yes,Extremely clean,Somewhat likely,Garlic Parmesan flavor
+5,4/9/2026 8:56,4/9/2026 8:57,achanthadara@my.yearupunited.org,alexus chanthadara,Good,Yes,Average,Good,Yes,Somewhat clean,Somewhat likely,Ghost Pepper
+6,4/9/2026 10:03,4/9/2026 10:04,somer@my.yearupunited.org,samia omer,Good,No,Fast,Excellent,Yes,Extremely clean,Very likely,N/A
+7,4/9/2026 10:06,4/9/2026 10:07,callen@my.yearupunited.org,corey allen,Excellent,No,Slow,Average,Yes,Extremely clean,Somewhat likely,Plutonium isotope 244
+8,4/9/2026 12:52,4/9/2026 12:55,tzergaw@my.yearupunited.org,tihitina zergaw,Good,No,Average,Good,Yes,Somewhat clean,Somewhat likely,Lemon pepper 
+9,4/10/2026 5:38,4/10/2026 5:40,BHambleton@YearUp.org,Bess Hambleton,Excellent,No,Very fast,Excellent,Yes,Extremely clean,Very likely,peanut butter and jelly
+10,4/10/2026 8:07,4/10/2026 8:09,smelgara@my.yearupunited.org,smaya melgara,Excellent,Yes,Very fast,Excellent,Yes,Somewhat clean,Very likely,Garlic pepper
+11,4/10/2026 9:00,4/10/2026 9:00,bcollins@my.yearupunited.org,blake collins,Poor,No,Slow,Poor,No,Somewhat not clean,Not at all likely,???????
+12,4/12/2026 20:07,4/12/2026 20:08,stana@my.yearupunited.org,sonia tana,Excellent,Yes,Very fast,Excellent,Yes,Extremely clean,Very likely,spicy
+13,4/13/2026 18:46,4/13/2026 19:02,dbaptiste@my.yearupunited.org,daniel baptiste,Poor,No,Average,Good,No,Somewhat clean,Not so likely,Peanut butter wings
+14,4/13/2026 19:02,4/13/2026 19:03,dbaptiste@my.yearupunited.org,daniel baptiste,Average,No,Very fast,Poor,No,Somewhat clean,Somewhat likely,Flamin hot cheetos
+15,4/13/2026 19:03,4/13/2026 19:03,dbaptiste@my.yearupunited.org,daniel baptiste,Excellent,No,Fast,Good,No,Neutral,Somewhat likely,Oyster Flavor
+16,4/13/2026 19:04,4/13/2026 19:19,dbaptiste@my.yearupunited.org,daniel baptiste,Good,No,Fast,Average,No,Extremely clean,Somewhat likely,Buffalo Sauce
