@@ -11,6 +11,12 @@ print("The total due is " + str(total_due))
 # total due is 97.79 
 
 print("Food cost is " + str(food_cost) + " and tax is " + str(tax))
-# print("Tip is " + str(tip))
+print("Tip is " + str(tip))
+print("Total due is " + str(total_due)) #question 5 complete
+
+print()
+
+print("Food cost is " + str(food_cost) + " and tax is " + str(tax))
+#print("Tip is " + str(tip))
 print("Tip is " + format(tip, ".2f"))
 print("Total due is " + str(total_due))
