@@ -1,14 +1,14 @@
-6\. Use the Information panel in Workbench to review basic data about each table: 
+6\. Use the Information panel in Workbench to review basic data about each table:
 
-∗ What is the primary key of the table? 
+∗ What is the primary key of the table?
 
-∗ What are the parent tables of this table? (i.e. What tables do any foreign keys 
+∗ What are the parent tables of this table? (i.e. What tables do any foreign keys
 
-reference?) 
+reference?)
 
 
 
-A. The primary key of the table is shipper ID, employee ID, region ID, territory ID, supplier ID, product ID, 
+A. The primary key of the table is shipper ID, employee ID, region ID, territory ID, supplier ID, product ID,
 
 B. The parent tables of this table is northwind orders, northwind order detailsm northwind produxts, northwind employeeterritory, and northwind territories.
 
@@ -16,15 +16,15 @@ B. The parent tables of this table is northwind orders, northwind order detailsm
 
 
 
-7\. Expand the Columns folder under the table in the schema panel. Jot down your notes 
+7\. Expand the Columns folder under the table in the schema panel. Jot down your notes
 
-to the below questions in a text or markdown file saved as northwind\_review.txt or 
+to the below questions in a text or markdown file saved as northwind\_review.txt or
 
-northwind\_review.md (you can use Notepad on your computer for this). Note: it may 
+northwind\_review.md (you can use Notepad on your computer for this). Note: it may
 
-be helpful to copy and paste the list of questions into your text document first, then 
+be helpful to copy and paste the list of questions into your text document first, then
 
-proceed with answering each question. 
+proceed with answering each question.
 
 
 
@@ -38,7 +38,7 @@ Pk:CategoryID
 
 Fk:N/A
 
-I would bring category name and category ID into PowerBI because it identifies 
+I would bring category name and category ID into PowerBI because it identifies.
 
 
 
@@ -156,11 +156,5 @@ Pk:Territory
 
 Fk:N/A
 
-I would bring territoryID and the regionID into power BI since it identifies where the pro
-
-
-
-
-
-
+I would bring territoryID and the regionID into power BI since it identifies the territories in the region.
 
