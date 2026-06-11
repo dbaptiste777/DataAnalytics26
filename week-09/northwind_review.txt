@@ -1,0 +1,88 @@
+6. Use the Information panel in Workbench to review basic data about each table:
+∗ What is the primary key of the table?
+∗ What are the parent tables of this table? (i.e. What tables do any foreign keys
+reference?)
+
+A. The primary key of the table is shipper ID, employee ID, region ID, territory ID, supplier ID, product ID,
+B. The parent tables of this table is northwind orders, northwind order detailsm northwind produxts, northwind employeeterritory, and northwind territories.
+____________________________________________________________________________________________
+
+7. Expand the Columns folder under the table in the schema panel. Jot down your notes
+to the below questions in a text or markdown file saved as northwind_review.txt or
+northwind_review.md (you can use Notepad on your computer for this). Note: it may
+be helpful to copy and paste the list of questions into your text document first, then
+proceed with answering each question.
+
+Tables:
+
+Categories:
+Pk:CategoryID
+Fk:N/A
+I would bring category name and category ID into PowerBI because it identifies product details.
+The data type is text and the calculations would be counting categories and grouping them by category.
+
+
+
+Customers:
+Pk:CustomerID
+Fk:N/A
+I would bring company name, contact name and contact title into PowerBI because it identifies the different vendors that are used in this database.
+The data type is text and the calculations would be counting categories and grouping them by category.
+
+Employees:
+Pk:EmployeeID
+Fk:N/A
+I would bring First name, last name and title.
+The data type is whole numbers and the calculations would be the number of orders handled by each employee.
+
+EmployeeTerritories:
+Pk:EmployeeID
+Fk:FK_EmployeeTerriroties_Employees
+I would bring this column into PowerBI because it identifies the sales territories that each employee belongs to.
+The data type is whole numbers and the calculations would be the number of territories assigned to each employee and the number of employees per region.
+
+
+OrderDetails:
+Pk: OrderID, ProductID
+Fk:N/A
+I would bring this column into PowerBI because it identifies the prices and the item identifiers.
+The data type is whole numbers and the calculations would be finding the revenue, amount sold, discounts and total sales.
+
+
+Orders:
+Pk:OrderID
+Fk:N/A
+I would bring Order ID, Order date, and shipped date. This is great information to have when creating visual data for this database.
+The data type is whole numbers and the calculations would be the number of orders, order information, shipping information and total orders.
+
+
+Products:
+Pk:ProductID
+Fk:N/A
+I would bring ProductName, quantity per unit, unit price as relevant columns for PowerBI.
+The data type is whole numbers and the calculations would be total sales per product, units sold and product performance.
+
+
+Region:
+Pk:RegionID
+Fk:
+I would bring the region description column. This is great information to have when creating visual data for this database to separate territories.
+The data type is whole numbers and the calculations would be number of territories per region and region performance.
+
+Shippers:
+Pk:ShipperID
+Fk:
+I would bring ShipperID and CompanyName. This is great information to have when cleaning the database.
+The data type is whole numbers and the calculations would be the number of orders per shipper.
+
+Suppliers:
+Pk:SupplierID
+Fk:N/A
+I would bring supplierID, CompanyName, ContactName, and ContactTitle. This is great information to have when creating visual data for this database.
+The data type is whole numbers and the calculations would be counting number of products per supplier.
+
+Territories:
+Pk:Territory
+Fk:N/A
+I would bring territoryID and the regionID into power BI since it identifies the territories in the region.
+The data type is whole numbers and the calculations would be the number of employees per territory.
